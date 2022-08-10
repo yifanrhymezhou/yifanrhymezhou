@@ -9,8 +9,8 @@ I'm a freshman studying CS at Hamilton College in Clinton, NY.
 - JavaScript, HTML/CSS/Bootstrap, jQuery, Python, SQL (MS SQL Server), VB, Tableau, Google Data Studio
 ## 📫 How to reach me:
 - [Personal Website](http://yifanrhymezhou@github.io)
-## Other facts about me:
-- I'm an Executive Editor at Cathartic Youth Literary Magazine
+## 🤔 Other facts about me:
+- I'm an Executive Editor at [Cathartic Youth Literary Magazine](https://www.catharticlitmagazine.com/about.html/)
 - I LOVE badminton and stand-up comedy
 - I'm a student fellow at Rewriting the Code and the chapter lead of Hamilton College X Superposition
 
