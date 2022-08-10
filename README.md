@@ -6,7 +6,7 @@
 - Was a Data Analyst Summer Intern at [Wright's Resume and Connection](https://www.linkedin.com/company/wrac/mycompany/), a nonprofit which helps underpriviledged individuals secure employment. I learned Tableau and Google Data Studio during the internship (Summer 2022) 
 #### 💞️ Skills:
 - JavaScript, HTML/CSS/Bootstrap, jQuery, Python, SQL (MS SQL Server), VB, Tableau, Google Data Studio
-#### 📫 [Personal Website](http://yifanrhymezhou@github.io)
+#### 📫 [Personal Website](http://yifanrhymezhou.github.io)
 #### 🤔 Other facts about me:
 - I'm a student fellow at Rewriting the Code and the chapter lead of Hamilton College X Superposition | I'm an Executive Editor at [Cathartic Youth Literary Magazine](https://www.catharticlitmagazine.com/about.html/) | I LOVE badminton and stand-up comedy
 
