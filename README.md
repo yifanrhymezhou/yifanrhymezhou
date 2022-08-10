@@ -1,8 +1,8 @@
 #### 👋 Hi, I’m Rhyme. I'm a freshman studying CS at Hamilton College and an aspiring web developer & data analyst.
 #### 👀 Currently, I'm 
-Learning Java, Vue.js, Uipath RPA
+- Learning Java, Vue.js, Uipath RPA
 #### 🌱 Previously I... 
-- Worked on building [an archived medical research project record management system](https://github.com/yifanrhymezhou/MRPMS-FAHZU) for the First Affiliated Hospital of ZJU School of Medicine (Summer 2022)
+- Worked on building [an archived medical research project record management system](https://github.com/yifanrhymezhou/MRPMS-FAHZU) for the First Affiliated Hospital of Zhejiang University (CN) School of Medicine (Summer 2022)
 - Was a Data Analyst Summer Intern at [Wright's Resume and Connection](https://www.linkedin.com/company/wrac/mycompany/), a nonprofit which helps underpriviledged individuals secure employment. I learned Tableau and Google Data Studio during the internship (Summer 2022) 
 #### 💞️ Skills:
 - JavaScript, HTML/CSS/Bootstrap, jQuery, Python, SQL (MS SQL Server), VB, Tableau, Google Data Studio
